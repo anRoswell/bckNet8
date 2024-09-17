@@ -1,0 +1,11 @@
+D:\Proyect C#\TemplateProjectBackendNet6_02\WebApplication2\obj\Docker\publish\WebApplication2.exe
+D:\Proyect C#\TemplateProjectBackendNet6_02\WebApplication2\obj\Docker\publish\appsettings.Development.json
+D:\Proyect C#\TemplateProjectBackendNet6_02\WebApplication2\obj\Docker\publish\appsettings.json
+D:\Proyect C#\TemplateProjectBackendNet6_02\WebApplication2\obj\Docker\publish\WebApplication2.dll
+D:\Proyect C#\TemplateProjectBackendNet6_02\WebApplication2\obj\Docker\publish\WebApplication2.deps.json
+D:\Proyect C#\TemplateProjectBackendNet6_02\WebApplication2\obj\Docker\publish\WebApplication2.runtimeconfig.json
+D:\Proyect C#\TemplateProjectBackendNet6_02\WebApplication2\obj\Docker\publish\WebApplication2.pdb
+D:\Proyect C#\TemplateProjectBackendNet6_02\WebApplication2\obj\Docker\publish\Microsoft.OpenApi.dll
+D:\Proyect C#\TemplateProjectBackendNet6_02\WebApplication2\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\Proyect C#\TemplateProjectBackendNet6_02\WebApplication2\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Proyect C#\TemplateProjectBackendNet6_02\WebApplication2\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
